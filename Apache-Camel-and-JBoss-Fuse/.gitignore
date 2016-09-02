@@ -1,0 +1,20 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse project files #
+.project
+.settings
+.classpath
+
+# IntelliJ project files # 
+*.iml
+
+# MacOSX specific files #
+.DS_Store
+
+# Maven build folder
+target

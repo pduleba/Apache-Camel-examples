@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configures the Camel Context-->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:cxf="http://camel.apache.org/schema/cxf"
+       xmlns:ctx="http://www.springframework.org/schema/context"
+       xmlns:jaxrs="http://cxf.apache.org/jaxrs"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://camel.apache.org/schema/cxf http://camel.apache.org/schema/cxf/camel-cxf.xsd
+       http://cxf.apache.org/jaxrs http://cxf.apache.org/schemas/jaxrs.xsd
+       http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+        ">
+
+    <bean id="properties" class="org.apache.camel.component.properties.PropertiesComponent">
+        <property name="locations">
+            <list>
+                <value>classpath:endpoint.properties</value>
+                <value>classpath:google.properties</value>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="jsonProvider" class="org.apache.cxf.jaxrs.provider.json.JSONProvider"/>
+
+    <bean id="validator" class="org.springframework.validation.beanvalidation.LocalValidatorFactoryBean"/>
+
+    <bean id="commonValidationFeature" class="org.apache.cxf.validation.BeanValidationFeature"/>
+
+    <bean id="validationProvider" class="org.apache.cxf.validation.BeanValidationProvider" />
+
+    <bean id="validationInInterceptor" class="org.apache.cxf.jaxrs.validation.JAXRSBeanValidationInInterceptor">
+        <property name="provider" ref="validationProvider" />
+    </bean>
+
+    <bean id="validationOutInterceptor" class="org.apache.cxf.jaxrs.validation.JAXRSBeanValidationOutInterceptor">
+        <property name="provider" ref="validationProvider" />
+    </bean>
+
+    <bean id="groupedExchangeAggregationStrategy" class="org.apache.camel.processor.aggregate.GroupedExchangeAggregationStrategy"/>
+    <bean id="headerAggregationStrategy" class="com.pgs.aggregator.HeaderAggregationStrategy"/>
+
+    <ctx:component-scan base-package="com.pgs.processor, com.pgs.rest"/>
+
+    <!-- Defined the client endpoint to create the cxf-rs consumer -->
+    <cxf:rsServer id="rsServer" address="http://localhost:9090/rest"
+                  loggingFeatureEnabled="true" skipFaultLogging="true">
+        <cxf:inInterceptors>
+            <ref bean="validationInInterceptor"/>
+        </cxf:inInterceptors>
+        <cxf:outInterceptors>
+            <ref bean="validationOutInterceptor"/>
+        </cxf:outInterceptors>
+        <cxf:providers>
+            <ref bean="jsonProvider"/>
+        </cxf:providers>
+        <cxf:serviceBeans>
+            <ref bean="geocodeService"/>
+        </cxf:serviceBeans>
+        <cxf:features>
+        </cxf:features>
+
+    </cxf:rsServer>
+
+    <camelContext id="camelContext" xmlns="http://camel.apache.org/schema/spring">
+        <dataFormats>
+            <json library="Jackson" id="jackson"/>
+        </dataFormats>
+
+        <route id="geocodeServiceRoute">
+            <from uri="{{endpoint.rest.geocodeService}}"/>
+            <recipientList>
+                <simple>direct:${header.operationName}</simple>
+            </recipientList>
+        </route>
+
+        <route id="getLocationRoute">
+            <from uri="direct:getLocation"/>
+            <recipientList delimiter="|">
+                <simple>https4://maps.googleapis.com/maps/api/geocode/json?address=${header.address}&amp;sensor=false&amp;key={{googlekey}}&amp;bridgeEndpoint=true</simple>
+            </recipientList>
+            <unmarshal ref="jackson"/>
+            <bean ref="geocodeProcessor" method="processLocation"/>
+        </route>
+
+        <route id="getLocationInfoRoute">
+            <from uri="direct:getLocationInfo"/>
+            <setHeader headerName="CopyHeaders">
+                <simple>gyms,schools</simple>
+            </setHeader>
+            <multicast parallelProcessing="true" strategyRef="headerAggregationStrategy">
+                <to uri="direct:getSchoolsCount"/>
+                <to uri="direct:getGymsCount"/>
+            </multicast>
+            <bean id="processor" ref="placesProcessor" method="processLocationInfo(${header.gyms}, ${header.schools})"/>
+        </route>
+
+        <route id="processPlaceSearchRoute">
+            <from uri="direct:processPlaceSearch"/>
+            <unmarshal ref="jackson"/>
+            <bean ref="placesProcessor" method="getResultsCount"/>
+        </route>
+
+        <route id="googleApiPlacesRoute">
+            <from uri="direct:googleApiPlaces"/>
+            <removeHeaders pattern="CamelHttp*"/>
+            <recipientList delimiter="|">
+                <simple>https4://maps.googleapis.com/maps/api/place/radarsearch/json?location=${header.lat},${header.lng}&amp;radius=${header.radius}&amp;type=${header.type}&amp;key={{googlekey}}</simple>
+            </recipientList>
+        </route>
+
+        <route id="getSchoolsCountRoute">
+            <from uri="direct:getSchoolsCount"/>
+            <removeHeaders pattern="CamelHttp*"/>
+            <recipientList delimiter="|" id="schoolsCountQuery" customId="true">
+                <simple>https4://maps.googleapis.com/maps/api/place/radarsearch/json?location=${header.lat},${header.lng}&amp;radius=${header.radius}&amp;type=school&amp;key={{googlekey}}&amp;bridgeEndpoint=true</simple>
+            </recipientList>
+            <to uri="direct:processPlaceSearch"/>
+            <setHeader headerName="schools">
+                <simple>${body}</simple>
+            </setHeader>
+        </route>
+
+        <route id="getGymsCountRoute">
+            <from uri="direct:getGymsCount"/>
+            <removeHeaders pattern="CamelHttp*"/>
+            <recipientList delimiter="|" id="gymsCountQuery" customId="true">
+                <simple>https4://maps.googleapis.com/maps/api/place/radarsearch/json?location=${header.lat},${header.lng}&amp;radius=${header.radius}&amp;type=gym&amp;key={{googlekey}}&amp;bridgeEndpoint=true</simple>
+            </recipientList>
+            <setHeader headerName="type">
+                <constant>gym</constant>
+            </setHeader>
+            <to uri="direct:processPlaceSearch"/>
+            <setHeader headerName="gyms">
+                <simple>${body}</simple>
+            </setHeader>
+        </route>
+
+    </camelContext>
+
+</beans>

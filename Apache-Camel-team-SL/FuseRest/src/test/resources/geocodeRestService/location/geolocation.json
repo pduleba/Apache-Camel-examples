@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 51.5194133,
+          "lng": -0.1269566
+        }
+      },
+      "id": "ad6aaec7b7b0fa2c97a127c24845d76135e760ae",
+      "place_id": "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+      "reference": "CnRlAAAAaJgQX28yrSq2TwLWwj2zup_4cml7osR8RyklXFDGpT-q9-kT9VpSPxHkLLJYgXdqQ8QLXW-qf-qgFPXV7kVldbTShKEi2WgVCIatnJVk72AKlgihL8QtoO-9tm8HgkCnA61H3QbZ2D4Kyu3uQDr7wRIQTAiLLNJ6gXxzOEgfVyT0qxoUWJ7lMHQGFawm_pHoERsRAf62YBM"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 51.5020637,
+          "lng": -0.1292072
+        }
+      },
+      "id": "ded3d4530b9507102bc76a1e81d469449c02dc9f",
+      "place_id": "ChIJq4lX1doEdkgR5JXPstgQjc0",
+      "reference": "CnRnAAAAM8eWBWWSNr7VjNnMVzo3LtTobYtdNhTB_PqH9GWeYaetddopf2UI9hoLNTnmRahrJOdjAqLDDZZQtMXszEaXSHXzJgT97Eu4LitwUNFBPY-cgIylZPWB_j8Tev2ViyFQMIVUkFXjRMXub-JPdAEBEhIQ_bY5OV9mGL5JXEnj_ax2eRoUKOZ1zt3weeH2cDYo6tIOYw1jk84"
+    }
+  ],
+  "status" : "OK"
+}

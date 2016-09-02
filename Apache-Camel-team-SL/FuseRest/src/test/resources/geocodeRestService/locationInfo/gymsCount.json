@@ -1,0 +1,534 @@
+{
+  "html_attributions": [ ],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3530921,
+          "lng": 18.61015069999999
+        }
+      },
+      "id": "411a74089907c8c84fc30f73b7bff1bdae74d554",
+      "place_id": "ChIJ-6E_BHx0_UYRtnF0s7cb8iI",
+      "reference": "CnRuAAAA8eh09as8OozIej57GpCHTby1Ld7QiQgovyX2_xZ9RvmME-n7ANjuhSDoZ2pRHiEHoRBf4eTp_cUi3UePWhujijM0eFB5KKeGOt2mk8Lf4WYEJ2HxkiGAORt-mRxc9S-0VvP8O146NsATwXyiEQYDGhIQyPQn_mC5T-f0qGgUle0t2xoUik0gKfa0y574iiwCKU8iHpFlbPw"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3772604,
+          "lng": 18.6070955
+        }
+      },
+      "id": "7615ebd60ed63ca1cfc3897571fc0d3bbdf9ea34",
+      "place_id": "ChIJUZDRRpR0_UYRj2TNKvkizgM",
+      "reference": "CmRcAAAAk4mgGA7sA0rRLgdW1NdaHyt2o6QhyT5Z2SdSZsj-jD4F8tCmnBMQUannEoIR-x-DJINI6xlG7LaOHYBPi33-ZclxlLDssXV5YrHESTQGtXeVRS9_u9l3EDvg7QBNa3rgEhB30pJC0JO39gqiUQRwWhuRGhS4a3-0qLs5cdtwsBrStv7WPuQ1bA"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3609715,
+          "lng": 18.5871426
+        }
+      },
+      "id": "d597208b24ab1be0098a3a3df37e8bfa2b3b650c",
+      "place_id": "ChIJ0cqxl190_UYReqoHe3M270k",
+      "reference": "CoQBdAAAACi4bKD9ioBxhYGw_-FjKbb5PwwgPa7s1rniUYXwykf0S5XDFHJweFfYKsHZhjHDeCq-1o2DYkSUqGPeXAdSl7x1bVA8iIFUAaOwZ2rLClogH96TDL0mPHg3s7YUgbiLHEQpqwuwYFyFr8rsRXExhAjSKvqkry0E-AkMERDWeoV1EhB5TV7ATlknlET5xqFMP39zGhQQjRzuY-ZSug8e0RlY-64s_A5uBw"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3582088,
+          "lng": 18.5862378
+        }
+      },
+      "id": "c85a08b7bd62a21005924c27f99bd30f1d93ba06",
+      "place_id": "ChIJTwn5OF50_UYRsOhH7zLC0Ws",
+      "reference": "CoQBdQAAAL7U6_3XGmgo1DQbPy7CPxmSs9jSpdIBWekR6Pv90upYgwN6FNZCSGgV6ICkQmE2fRM1wmEOQ7ROrJUbrrDMnFeQGAT9uItCq8he0Y5q0FQUkQZLP5KBHHiyfWUhsdip0ZV7SvonbaxPn1a3mCsgZZeIl1m13sTm2uzQXwBPeXiQEhC4uwH6ZcKsEkSIyEOYr5yfGhTbCtWWqNqUwykmTL2FeCYKbDWLww"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.34139700000001,
+          "lng": 18.6575311
+        }
+      },
+      "id": "2eb2a359b82bdf7f83f1dad9f7ec52057aa09d66",
+      "place_id": "ChIJ0fXlkKRz_UYRKIy863MzZ4g",
+      "reference": "CnRpAAAAw4NHs9JaQcuOJR1hNILBrK2C_avubhqRd-MAj70eKCGQ2ILhSu--CguVGn93SwkfThfUvqs5FqXTkzZMeCJR8ZmZ1XTJGExtPqjkVmoY7Qui8Dl6tEhLZPFnv2Gab63-Xcr3_wwQ0aUveKEEHk4MBxIQ5sUh306UcB6I0O4eQGOLrhoU-qbA3XR4I8sRsbuIcOSzUIzKCxU"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3575634,
+          "lng": 18.578766
+        }
+      },
+      "id": "e28605bd474b14b33ca1265bdc432e166217228c",
+      "place_id": "ChIJ-6RnAFx0_UYRpVs0m1rpT3w",
+      "reference": "CnRlAAAAshtkuSXNNKItrNb70bO6NheqT86KT5yl6sMlw0xvrXd0Ejuoke2e1PC2xnHYnapda8HfE-cEVjNTmE19DiTljHBZbcU3nclpTsAgwyDY13Pun00zvN7PYiHkbhSLJoB-Z2QsWfs9kWQUcJQ5IaIDYxIQL1L82uZLSPRMUt0xNOrqMRoUSa5KSQPJ3DY01QyTSAXdZIMNUXI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3814181,
+          "lng": 18.6129583
+        }
+      },
+      "id": "df68018a16383c4052ba180235428d32f1dc0e6d",
+      "place_id": "ChIJ1U7WCb50_UYRtqrZjcA_8x4",
+      "reference": "CnRhAAAAbBRELHhIxS-hHf5JNukU89OGQB7pLIXJix0_z93OsFa3r25UvaQ_2u7jcrnqMkJdZuB9_rgr4PfJHxuFCPrx8gcWx4YjKrkkeiQccFTvvUyw67RwCHSP3zXpCXI7jxt3ckrqp96BTxOdq40beWPTtRIQ7Ga1VDt_yJk8urelfYnNXxoUlg1Y63cTztSAGsQv_w2hMz-wSyI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3672531,
+          "lng": 18.6088606
+        }
+      },
+      "id": "484093169b76a58ca028240b9fed9f720edd7c1b",
+      "place_id": "ChIJvyYSpo90_UYRzb2neucvNg0",
+      "reference": "CnRmAAAAC0PrmK7oPtJzbKL_7OtQAabfRa4A6EZmqMpEf3YTRqwICKfRKsVJe0AqWPYAA-Y5QIfXq_rrfuDRMdxecIGY5sgUAJkLYnMNIKmaFRRxbMtx89ELFjq75rZcWoIdhmdNY8bim-bB1Gv_QGMQKGKspBIQD9r_O2njdMRxSgJ0GG1zAxoUBmpqdaTD2aw9m5ovW5ofV66zVx8"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.357394,
+          "lng": 18.692132
+        }
+      },
+      "id": "f7be85a50620a1147d1199c0e7662157c50853d6",
+      "place_id": "ChIJ0Q-QOB1z_UYRlCwdEe2mIdU",
+      "reference": "CoQBdQAAAAUEZ8mn5Vu2YmQvJibSR1A4L6NXg1wKPmOZFIH3o8RTD3_0M0krbwrIhK-bgJ-_h0FD2V74NPNCTtQ8PneZSbopczvGhCCvUJCnAGp34y3lu5F8fCXdbNzMhwxeHQx7nbbSGg1mOwhkQYXG0xvwAQdtVpXQuYUJ_CywGFClWulzEhAcoSLHbwnMkmaPr4mUSbQVGhS1NyErlq44hMJoxb7p_1v8NSIhhg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3597537,
+          "lng": 18.5969069
+        }
+      },
+      "id": "bf8ead072ba573c77913d9b23e10e427af9a626c",
+      "place_id": "ChIJk94X5GF0_UYR7xr-kB8B3BI",
+      "reference": "CmRXAAAANDSW1Z9Kh1l6rR9zCEIvnCKXEEH6yab84xbwJWZWKORXP39zJRPfhLmo_o2bl318zAWZz0Btcgd1u8IWJ60S47Tz-X6kDAoOdtAtgbkketuWu_vPi5wFuoind0fS7duCEhBV4pKswuGtGLy5TijzAkGGGhRphpPqGI3eRTYjIxo9pfj6TcNrnA"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3470501,
+          "lng": 18.653247
+        }
+      },
+      "id": "ca7d2af316ce88d25595753bafa1afdaf01436c8",
+      "place_id": "ChIJGT5T6qFz_UYR2OBG5mHduO8",
+      "reference": "CpQBiAAAALmThR4gIKE7oOpY-NmUiedoG7kzqQzcX2gjiJbsE8QcC9VBXtKO0mrYBvonXDjfLorCOu1ZcBULvG1Kdi3ob10-hNJ2MJvZwjToqNOd1PjkkvQHu9xBeNP5bp1JDZZq8U5a9h24qiENClo1ShV11_1es31vxdecgSOD56Z4YHT99ZSnI00J4ohad-ZwyH47ghIQkY7JhoDW_GEr-FGXCKPmRBoUMhZYlb8Fzk7zvsyo44aGD7ZLcSg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.324464,
+          "lng": 18.609995
+        }
+      },
+      "id": "d27810750464a4e81d05f39ec013c8fca304a424",
+      "place_id": "ChIJ6eYapvBz_UYRnTsslpdhmSY",
+      "reference": "CnRrAAAADjc5xGCEgF4eBIQH_k9W_32HgDgwCmAolgZSjg587_yuzFXyKRKVJkUbIQlp3AJmP1htvjncziGAD0WT69ompPdpDt80IqaD421YcERVNaj2YNxbNMzvZ_K8sqUf0p5u9ZCEYBv0nIZ1bg9BM7BdpBIQswpQ-ahFOFvgEkJOy_PbqhoUcuK4Xbkr9VZMH1fA2fbUfUpx50k"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3606977,
+          "lng": 18.6006475
+        }
+      },
+      "id": "7de53392df55bf893e50f8bc54cb7efc668048be",
+      "place_id": "ChIJYQsG6Yl0_UYRe_rhkSjPJqk",
+      "reference": "CnRpAAAAMY5K74QD0usms8EtrKsHfKj2AMXCHpOMI4o3wTEqyWIjPSqkCHlp3uQ4Inw2LD0z3VtHMP1kM1dGXYVLqLDtJUxt1Wfn4waHq31AkI5HQKLnQsAV6fA0-NimSoZsPWDKLW_l1q49_yvwM2FLVjiMzhIQ8VtzQE5UGykvOBPkAha6VxoU0F4BHkb_yX9kuUnYtCsrhSvnSiQ"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.35530499999999,
+          "lng": 18.650751
+        }
+      },
+      "id": "a2cdbbb17481386a8bd9a687040e10ede2703f16",
+      "place_id": "ChIJ5fDXR3Rz_UYR6NgrZ7JP3aw",
+      "reference": "CpQBiQAAAMbuO4jIhLGcPDPb9mQ5PjyDiuuHK16SxjP56YUe6HHbJixQ6Afjkw3ryaTCOI9PB958t_Acurq7LQKf8g2aTa2k8bWyREtzu_VvPV3iwmESjKxDQOvUj3nno0wr6SggjX7BS8gBzALHjZ9RBn-4GPb6Hd5002hVdl0oJ9bOTkRaXL4eAtObzJKXhI5tLPyIoxIQqdWyGkffk2vhgsyOQ4E5pxoUNuojGUZ-6s73Gs6mCZODrBGN6o8"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3361756,
+          "lng": 18.6204908
+        }
+      },
+      "id": "f37abb661958f966aadd03c5b055a7f0ca67f00d",
+      "place_id": "ChIJcwvj-Yxz_UYR3yVgv7ERfkQ",
+      "reference": "CnRoAAAAQzi5WxMO5JUEa9hVYp0pUoU5QaHEencWAZ_PTOzUS03Vm0qxXUQdcpTf9jKvgg_kqxWZWMjchvbxsKfG0Fgc3CYV84OM1EqdWTLrG1WEGhf5hhXfvfR_4BK8OD1OGHyDQjSGZViDtXgo-sG9RDSSlxIQkrtSXeynoSUiI75F6KlJuBoUZ8IMrSbT61qWWjGPYB0k5HMcVak"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3524038,
+          "lng": 18.5930913
+        }
+      },
+      "id": "bbb48180153478e348fbdd83cae8b2c7bbad6443",
+      "place_id": "ChIJ_1jZ1GV0_UYRSxxnorpPhR0",
+      "reference": "CnRnAAAA8B6cY-k2J9fxdPbhrvT1NnaSZUQ6gAn5f_dAYzOUo5VCMDy3AINT0JEQGMaIR-aO1nhWvDHko_54rlTqcRhB_aAeZRDdwJAxzKrYjH7a9RK2sym_oxHdPcf8YvJqcckm34rpAxD_AvLLZNfOQs5_uhIQqV32sQxxflFTEyMZuEvuXRoUnINAt2cc3F5BDb55Yf_061u7zJ4"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.358209,
+          "lng": 18.586238
+        }
+      },
+      "id": "7428c9d0645f2a0040f543c7efaceaa1dd963c8c",
+      "place_id": "ChIJvw75OF50_UYRMDE0Gu8Ii4Q",
+      "reference": "CpQBhAAAAFlt_RYYBiXTX2RHcnCX6JWmANnzRxlLQ0EU1NC1nWPfPjx7I2FS9gs0I5HckF76lMdZ8gEtfnjGK1NWPTdUtQ_9_g7zbxPR0W2xFeK9UR_jksy_pQXHEx7k5KBgHKFE2VX7HVl2PP78G4KZAmFES-JmoyMpaeh8VSnZuXzHHbjDvnYTvajexeYUxtUtiDWI1xIQM03GKc_UmKLFp-Mw50uQ8RoUKCnnV2p3quRjY6KGf3TyC0tErT8"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3781658,
+          "lng": 18.597622
+        }
+      },
+      "id": "c906d4128d36aaecdb5989cc98213012d0081de3",
+      "place_id": "ChIJLf8tm-t0_UYRJBOGlHtYRuY",
+      "reference": "CoQBcwAAAP859dem5kVUjyCKUOOyk4tzh-vfWYupVqzsQUSWqdP_TSXlvLdOELzyyJ498F1m5q-3FED71uWLM7x12b65WmigEazjewOsgEp6cv2cH4rQ9NkgajxxTVSGyZaKl6iy30b4wj71OKDGm4WQSWgW-5fOIq8O6IYUYRVNHKFDekkMEhCULVFgzUYzLlpuP1v_tUrEGhRWJBnwAP6UcahsX3VVyKPheFFNbg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.35743189999999,
+          "lng": 18.5786561
+        }
+      },
+      "id": "ff72a7d3dc48e1a941ab5d9fcd4c5a6dad1bf7e1",
+      "place_id": "ChIJ-6RnAFx0_UYRs42tgY5pS0s",
+      "reference": "CmRbAAAAhcsysSuPjJlgrEdVgkCb2LHweHPrtF_FNt2JhMgBgu5n4YxfTWotE6Ev6OStUDQro2iq39ua4qkMdSRYzSKWINd4Iy9RELtyNMvgKMrucC5mLqCErgy3UnIh6pk5QEv_EhBojS7uQ8QefDy9V0a--rfFGhS6ArwK-8LwFs8cj4bigvVY_OT2bA"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.381995,
+          "lng": 18.608078
+        }
+      },
+      "id": "5642a197ece4e76876f22eea675636d9fe2e7150",
+      "place_id": "ChIJY6M5xb90_UYRJheX0kssmDo",
+      "reference": "CmRcAAAATzzuxetWVmlsoEZ_dbc6HNBWCZ6ocsfQrKlPPb1eJ7BFm58Hcy3ynvpr608yVH-majn-DDbkgCwAPaoM8IBBatgy-AwLtD0TC_C23jd2SGsYBY4fhEsp6Zi346Mk3727EhB-YroxZr7ExlXLjGRdciweGhT8SjPxghAeHTHAhnF5v4sOhE6nWg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.36028779999999,
+          "lng": 18.5809126
+        }
+      },
+      "id": "51b01665ae6b0d8f6dd266a30d5e536c03d70132",
+      "place_id": "ChIJGR2wK190_UYRpAq4RTjlc6g",
+      "reference": "CnRiAAAAvlFRtydOUkDEoSMdVzOSGC9bXyZ6Vddmt2zS4MQwzVqb58wYHYP-Arqc16U3dJuOxJNQrF96lZj2JmAGyaEdTf0w8eItpuj3Yd4AeFrRHX4A4XspIEpg9vdUhx9KxG7oZuHxzu4e7gNAcSeKUSDC2RIQwJKBBBXnUW7Em9aLzLWJERoUqFdtuv8XlkGTbFCzD71CeYpoYRI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.33999199999999,
+          "lng": 18.5780168
+        }
+      },
+      "id": "112ab4d5a25326c3d6279e80d2f13a8827a2cdca",
+      "place_id": "ChIJFeVrOhV0_UYR2MDME9SNuV4",
+      "reference": "CnRoAAAA52IDMTv7StVYmNvvh8rw5bdhX7dKHBcQ61F4J6-TAgeuql8uQUrotMxs_aLX6ElDjXpYS515G9V7HR2GzZPMZe_o36lQQ6H0O07oEvDUHOsma9fPTljac-UZQwvkszegS8t8TQHYBQp_LuV27sTKLBIQv3c7s21dNHQEwSO7L5O_-BoUq3c_g9_jIyI2YdMoLdGKUJfkOrc"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.382624,
+          "lng": 18.599206
+        }
+      },
+      "id": "6bf6483c908e18cab6922f193d14de0d86c89736",
+      "place_id": "ChIJrf0Gdup0_UYR8DJNyowDGDo",
+      "reference": "CmRZAAAADW27j9Z3FhvMEi2ivUiN4ZF9_mi_IEemgOpZb0Spm9KhhBJvR6Z-lTcSpHIt7EG0WnBWO05FztIFtr9Ht__4x_5cb_YHtf0JDtm2wORpxKD0PPfT3eED6LEVqWQkKAkgEhBUfzvuySWcGmeiYpc23fi2GhQxOseu-eDOdOkf6haOoH5H5_ytJg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.38238,
+          "lng": 18.59618399999999
+        }
+      },
+      "id": "2a6b8299eb395708f599f87a13e267d708822094",
+      "place_id": "ChIJJUJMA-p0_UYRbr42XIW6Rv4",
+      "reference": "CoQBcgAAALaLb1WrEm58Lc2Sfg77q-pCmcRo7l2tfYmBq6EzMN8HptDKHHkxV9Tk9vsa6PWr4WI-PyLH_XojZMLQ-Ve7z7Bv3v3WMHsbnbaGUeiLavqnYYqN7IP-xueexypb2XqilpcboRRhiSdm-ka20Zzd69DsamSMLUx_KnpkFsb9m_lUEhACkvQza2zsJGKPPuc5i9gVGhTYDW7Eg46H7X77cradpw9p7sV52w"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3550594,
+          "lng": 18.6300707
+        }
+      },
+      "id": "8cc0770e1f6316e886046a1ea00b52d1ef3b3f9b",
+      "place_id": "ChIJOZ1J_oFz_UYRVcOrHW7z-2U",
+      "reference": "CmRaAAAAMJF3I5jR9RGlwheWaQzJFndkZN5iHes0YbG61vl9bzfBwHwzFh-8Qi8t4BpxneD7ForR9tUerX-dC8ceYk0tgguqyMNXdHtdfPcpoGD6XsKvErZaibg1mgl8Uu0x8qgKEhA1BxLeAW82pCy-lvvcgqAKGhQNnnRU-G1jd7uduWWBEQkjrkfokg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.353813,
+          "lng": 18.6026511
+        }
+      },
+      "id": "be3f8c0c495454799f2886123b2cb10032c23cd1",
+      "place_id": "ChIJeVvpVHt0_UYRHA9kw44_ebE",
+      "reference": "CoQBegAAACDgfP5PRjARuOdYYz9s0SJtRL-c07XXO5M7mKYnIvJf4bcFTR9cJyZg-dTDCcGuvDQedMIzRauSc4sYs1lcsoWh0Sg8A0e1v4BvgnvkNBmFX4z_T5IVZ5Zwfg-C53HNV838gnWJ9WXqYivYGD-uZlQY-cbNuyOYR4o0qSxl6R01EhASHtgzypPYhJE9EEYsb1xmGhRkD_X5B9DxPfqv3_UcizqH3G8C7w"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3445096,
+          "lng": 18.6248697
+        }
+      },
+      "id": "933fb6b302680f93882ce5cbbb5b58f1c53110a3",
+      "place_id": "ChIJgwd99YVz_UYRNC7FvNeFOMA",
+      "reference": "CnRhAAAAyPVJKV_t4wDF0-3YdIipQAIED_RAPvAnSfz2zEBAkDPZE3h--F3NTKKuA56HXAZ69WptzsTw30RPqy-XshcLISgLyOOEN-_-mwmFJC14zJ4VciCl0rkMLHQbuc1iKd6B69rVDtqQ3mEO0ZAJPS0WdhIQRgpr-0ATpWglTwKN7KzQ8xoU4Orgc_1yDUy_ZcNAHif7Jak67QI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3615227,
+          "lng": 18.6723195
+        }
+      },
+      "id": "49564351e2264a70ea0216144965782fc734b6f3",
+      "place_id": "ChIJo5Z0kRFz_UYRal_I5RY6RsU",
+      "reference": "CnRuAAAAA4fdqa1omG0yhZHa4dhz6nB2Ya6-ZEw4DVuWS2uXxnUt5GfsTQEZvVugb4g9ojh15tAFAmYA_wS7x56hsSoy0eWMfkvlPWaNsPcPFHCdmI8xUpSz8T55IgWacfAlBx3zsL0deX09cpakdrPznZF-GBIQ1e3qeGAmzxI1xSciDgHrhhoU9WsiRQpF2irnuD2BCFRQkOy3e-c"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3563841,
+          "lng": 18.6489326
+        }
+      },
+      "id": "0e10b521762984e6cb9c049e2697eb360df7154f",
+      "place_id": "ChIJpQYdoXZz_UYRP_a7XD_G_n8",
+      "reference": "CnRrAAAAkgJPhF4HWtFHUhpLjeGJkqziOz0hA_Uokwmwe9VKVxEKeAvOxYCZFYy6BnjfuvZwkuTLEzhKDtBBfnytUAxH-NPA8YR0jgSnIcETSVyXMbMSqaoYllkfio8D9HruJA3h2Ls2WbMAebSn8nbxQPpZAxIQ7W07XIWL5cy5qUNsHbQaIxoU648jYV27BgpdG6eQUWt7TVy5GlI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.35653199999999,
+          "lng": 18.648498
+        }
+      },
+      "id": "0a34590d176e8d76c27a8fdb3e36e769967748ea",
+      "place_id": "ChIJN7w1onZz_UYR7I3w9AQyylo",
+      "reference": "CoQBeQAAANDubphEg7ro5nSQxYlZGJJETCRFSQ094mkhThsbJDfDguQYm3Wq8Ln85EssAU4D_5PQQegzIAt6pRaDaIHrs8qI2gPd3r_2VYcEU0nQh699SjPA44Uj6q76tCkHrqcj89ULRv6kY4juZqThnuAlFD9UL_oEYyTPWy-0baUDfvzoEhA5ymuR9g2sAfTPDeaYx-tMGhSJ6eMQ98MGBnkaYA84EHv-nv22mg"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3424233,
+          "lng": 18.64824579999999
+        }
+      },
+      "id": "cf59cfbec6d2679484865b764210643aa0ff5a9c",
+      "place_id": "ChIJR3tJnqJz_UYRCyq97LH_I-g",
+      "reference": "CmRZAAAAR4VZDStdaXV8fGOgagLY-zl3RIVCONzM1pgdSdVxEEl_qMhRa2-6BkyRWm52YcQD8nUfM_oz1SVEbOefmG_z62kE8pMGrwhdP8-z6AJLpBGUxyEPFXS11veso4uY_TkFEhBUlOPcPv86A-bwn43GSbNOGhS9j4NqLA-RK3Ne_pt1WzEou_jI2A"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3618687,
+          "lng": 18.6530633
+        }
+      },
+      "id": "6a43221cf004ade6a2a88c7531b466e20c3d801d",
+      "place_id": "ChIJX9dfAHJz_UYRmbRY2nvZScE",
+      "reference": "CnRlAAAAPNkMBKmFlA7yz_uYcr0oJQtP1RBAKnGzIzExjiIGiTAW6CMS5UayiuCCQ-f9bS3Fc90wVtudK_yE6Ml-SAnQs0Wzs2Vb0-XKVxFkbL2TaK-7pHC3gPkQZiS65X4dCzN61OgDrwGKnBIns2vwd2bsQRIQ3-uCylc4lAzBTa7zBpGNWRoUL-ssWr2ASGxLKJ-llUkQ9eDREXY"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.34184200000001,
+          "lng": 18.6539049
+        }
+      },
+      "id": "a3478ae7158ae4eff515db0a4be3ac35cc8465cc",
+      "place_id": "ChIJO8u3E6Nz_UYRv-Sz6QMeDR0",
+      "reference": "CnRqAAAAzwMAJpdUX8KSHJ-NxXrsj1HBJtxQO5yiQIRxgv52EALmkDYaSf7OQL_YXXs_e7nsKh-4lO5c2IHfvxREUHWS8ev2KLexuqJ8pRDnEJWmnesF6eAOnrCCX-l5X0YNXg45FSZpBsrOza-8QWiW7YDjTRIQfXl7EdsLLWOXVTBpknhMMBoUz011AnUEmgqViP7cWMM2YI1Mc8w"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3723761,
+          "lng": 18.6343209
+        }
+      },
+      "id": "aaade2fb900ffaa0d605ec915f765613261c3f83",
+      "place_id": "ChIJ1x4M5GFz_UYR2MudbSWm5_Y",
+      "reference": "CmRgAAAAX42cFQl4iHBJ8d1O8AHdYLdjwn55_cVU-6wIcgZkPdiC9DLrXfRhMZRsqYwoljGdmN3jVfKvl7ZmRnp5bYU8oL1FaDpU83nlzEmI3ugU-zr_fgTlvrN9ulQj6VV1B4gzEhCkYuwDzt5Rs3gv4fY1EpFoGhR72q_0mk5oDJOs7CUkddu4o3jFTQ"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3377783,
+          "lng": 18.6116964
+        }
+      },
+      "id": "5c400d2ccb345235fa56d36c8d534db42c3e1035",
+      "place_id": "ChIJ--ur8Ypz_UYRcBDZpWAXrLo",
+      "reference": "CnRkAAAALNDFNvsn80aBsh6t8tfZzf35wmQ2ySnwWHa9lCz29n7Ll7kJTMRmN_Hwd3ARYA0b157BqxSOmIqlLuVq6BX0MH-djRy1OthfbuXHVgMYD2gn_cFUJwW-PFcMcmKWsCq_bZ4oNSTqwiPIOv2MmRZLABIQSkXS5s1sHuX1gZUKovCruhoU-FcrpeesY9fkytwPJuy8yU7ciGs"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.35990959999999,
+          "lng": 18.60156479999999
+        }
+      },
+      "id": "e4b99cde9adcd21b13f22b58f2eb088725892023",
+      "place_id": "ChIJnYtG14l0_UYRclFfIyFqqEQ",
+      "reference": "CpQBgQAAAIGc52jy4Kd-yECqKhvZthqO4GZJ7-EgXRHBaMMTvNa2YlFxitQqidAFyj5brBxq1gKFChLHT9ye-AmQqTa7rxjFgwg1LAE9f4gkasqKfgziBHIv0N9Nm_lYyoMHIhWD-jEpz8nSP5YpO201Q3hvQg9jfmfniL7OwIMHQfS-M2Gxu9xoNHFUWBaqX00_C2_IKhIQjag7bt77AO-A8Ybx0tMhfRoUTNhRZFLwdPSSmv203NRtcpsx8rc"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.37488339999999,
+          "lng": 18.6135114
+        }
+      },
+      "id": "81b9a0fab7dc7de832bc7f7adccde70753c128ff",
+      "place_id": "ChIJBU5wMJB0_UYRvFqYtj9Mz7g",
+      "reference": "CnRkAAAANfPPby9RoHsYy_4d50lBhLqZUC_wNmWltAW528aVKALbJ72-Nbnimpuub_rN0SB4aIR30luRA3bU5L-WDMjDHhIUU_cBeXBODtAOPJMfm_Z0R9jKqPcfxrTE5YXg3OoWuSKbEAOP1-LoYJJcopFYIRIQrJjbaC8r7u5VBO-B2wqs6BoU-5EgyTaAF0kJAhsHPSvtetBKGmQ"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3529367,
+          "lng": 18.5937579
+        }
+      },
+      "id": "16a992a375cf94223c7e33747733d3e112e5669f",
+      "place_id": "ChIJoeAxL2R0_UYRvf_rRUCHiAI",
+      "reference": "CoQBcQAAAJfwurKRcTKonJqx0qozBbYq3vCzE72S2T-Mbzja4utZ40EUOR5cMmeAUJZhE8qDZLn6bUvywnSDhvMoire2JfvOAq-HhkVkdlBY03yGFbo_tGS5_EkPTehEnQooy_UXWXQP07l1DVvYnFARcl_n5iIUEPr26VsWqw8atWepkNGdEhC04Dw94DcSVE-dmGVJDcRXGhT__Uxtm_Bbze_adPTuWQaEl4yeMQ"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3547369,
+          "lng": 18.5934739
+        }
+      },
+      "id": "3b56cfe6e7d38a823c48d1dc71459c7e698acef9",
+      "place_id": "ChIJd7pJrmZ0_UYRcox7xCocWPc",
+      "reference": "CmRZAAAAdAJ6yjvuHZHG-bdMOtzmECBe5evGjVQ35tz7DYTzjauklZI1HR_CxaQ7sxwv8Aup7T_A6BwOaAkh3D3QUAOSEDe9jCqDp2ta2LrkkKmfDe1NVHLoWeYtIAuqs_pjPqmYEhAnGNm-OIFuwRfmWpg95OGwGhShz6ryn4FxWBl9unBDX6QdhYGO_Q"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.37512599999999,
+          "lng": 18.609433
+        }
+      },
+      "id": "f93de9fa2ca5fe9a508d8f9e7b26dd5b0762a770",
+      "place_id": "ChIJtWFwVJF0_UYRmGIQrAB5v8o",
+      "reference": "CnRpAAAA4_Rgh1S_f6VlvNoaWG541GM5OD8_s4pplGIwl6uRjWInQjlc-be1YuarGI0xGXikBfwt6IhEOjnpgsH1myys17iObt6OXaq6KZBX1WTPX8ZCJhIzb8wxO71k37Zs1ov_e8aRgXZGKOlwdOBxGNSFoxIQ0rMir8zqI1GlYQnH81KP3xoUe7rffrQnz3CK5fj9pwiBpkTkYu8"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.33036200000001,
+          "lng": 18.605642
+        }
+      },
+      "id": "f19e2953ae878b0d8424b6412350216dce541a1a",
+      "place_id": "ChIJtbKUC_Zz_UYR1sWNMX_lZ9w",
+      "reference": "CpQBhwAAAK7634JTimehestljIVdMy9z5WeS3yV35p2tKnfZEhF2Wmyw4bWdLBhQr7lKa13U0hWmqHIPOlbj2ORGZAQYj29FTEj3SWDyYxVUdsLoREx5k4KG4K7SakA-6vRpeX-qxfhzZnhbQJsmUSvSwE48CqPNX1OLNT40TJc4li84UZ34o2ODfLnz4CoymvrRbRQ4xxIQXymIGo5QaooRSjyM4cwtjRoUv9WR5qvkOE-NgnUuL1kML83_EDE"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3831256,
+          "lng": 18.6183509
+        }
+      },
+      "id": "c66d6b2ccc4a5e1abd84c7f1372c18feb7a38c78",
+      "place_id": "ChIJC4ieULx0_UYRVR05GWM_v9Q",
+      "reference": "CnRkAAAA4aduU3nHchXYtCbrwiNKKs92U5LOuKZ6by2z8Bn0R2-iIs97fxcWESW8SliNa_1uI4TcUYt2oAb0of2-1jcvQwCrlmNmQUXdDIy_C0FXQ4BrAxmXbqum7RfJ08yGRLerzlEN0YEpRtEyW2isnZ6kLBIQvHDwp9dHguknvHk-F13qhhoUGW9F-hK7oBSxHehcc6UX-cLADtY"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3606127,
+          "lng": 18.5877128
+        }
+      },
+      "id": "b42b8ba123456bd62ebc261c1f3f3fdd92c719e4",
+      "place_id": "ChIJEzME6190_UYRQXak9OGzIXk",
+      "reference": "CnRoAAAAgcd_gGoZPzLiUKIw1NOIRQLC0jsz2NTSiGIkpyk6WL90NtPhbfrXFxlr7YspIDi6f0qWV2iXWBfmf1G24x9UqAlsEm3E-H-KmD2X4jHH_ew-6O6M00nrWBShPL6mzRfk1z9imvsVhwHyK0-5YNPKERIQF7YTsMfutIpKl3dVib73TBoUGV3A6iDpT3QLzexe4LbOgbiYQ20"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.381055,
+          "lng": 18.6105266
+        }
+      },
+      "id": "cadfc6da51cbb6235fc82c34f549a163448054bb",
+      "place_id": "ChIJs54ZIb50_UYRiVaHa3_ir_A",
+      "reference": "CnRrAAAAxkP7ps9nF6G3k45PZut2IR635NW_VeieWsNA2j9oG6tk4zqwxy7zWNjpZpTsEHs9Bfm3XHJDWqCrUwUE4HeL1em5Q0q62rCBxvhqWa7gBlUeitEfI-SGKERYVh-Qa2jPhXS-tLhE76DbEfkq93t-8xIQt9F2rsllQSo4yUpeYQa00xoUFxKmLMJ_vLpgNhCFHriZGWTy0KQ"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3577256,
+          "lng": 18.5785798
+        }
+      },
+      "id": "eb8b6315221925b9a19ca22075adf5990560824d",
+      "place_id": "ChIJHcAWVVl0_UYRDCHaUE2D_Pw",
+      "reference": "CnRlAAAArrg9PlsSfAdnUauSOeDWJvxzBucDh7WqCvQuOKCDt7dtVOo4Js2ZkgtMU-70_N8PiPtVI6kBlaolP-e92IrKHVnUuNFyrD0uonYqjGdFqSdLswvzHs6CijkbAq5IJZrpfyMJPaXZRk13kYiH_rra7RIQut5SNSsqQE_AnO0hE7x0FxoUuIEf0Z_XJs06PoiXIC0xl26fPDI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.3899649,
+          "lng": 18.6103731
+        }
+      },
+      "id": "b48caf7ccfd0854fba6960a31a209d8330ec9e49",
+      "place_id": "ChIJiYC5h8d0_UYRM9ENe4p-0Pk",
+      "reference": "CnRjAAAAd1Je5Kgjd3o92FRSeHrPGYs3GvqBk9Zh01WxlWwYgEtS6H3VBPPswlL4MLJ3O3anFD6Tm7qd8hA-9KujPw_bG2VnJTeZxThj3hkWl_wjM9HUJ-fxsMpQOIrg9lWlO_aYkRduqq9lTlCO9nf5kAlNthIQXeYKEnE9axqyTFKAlFPQARoUQF-EgAvO7rPyWJzM-FMDxGle9j0"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.341846,
+          "lng": 18.625226
+        }
+      },
+      "id": "570fe3c1b0211c65dd7cd651440407cb93bcb98a",
+      "place_id": "ChIJyWZgAI9z_UYR_73osPygOYQ",
+      "reference": "CnRtAAAAdRpgA06ZjTkVisXt75cEudcbzPLtdNXVFttEu_pmeGN3ArpDKCK0IiOuNZGTSmwenmbg6M_wDaE2xP64HgkSUc51g2W6F-eriRfiPSFKU_eg6Bx1ilSWgzT2WNhImXF4x7nbCCPnZJv9eZhapa50qBIQZANI_BwlVixe9Eja9B7QzRoUzOF9tDOEn7dzsEtt9C9BwghBaxI"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 54.34843799999999,
+          "lng": 18.61275599999999
+        }
+      },
+      "id": "8fc787a992ab49c46514c5788c023ad0e028019e",
+      "place_id": "ChIJgXorTHh0_UYRtC6vzkcOuAQ",
+      "reference": "CnRpAAAAxJsxrofZl9GenvaKJlBGZwP7ZS55xdUOEQkzKoMVP6gvv4YDau35iORlWgePnIeL-pqTKj0Sz8k3Ad1JZP5pgokpXe7RB9T6dvv6T0v1pED23-JYU-c28ruZpaA2-KopT2SOTReDGBD6j_YMI44zsBIQbV-UASpWJpr_44JwN4L9BRoUfkU_2wSi3mkrX8CYd2MEtFCKrrM"
+    }
+  ],
+  "status": "OK"
+}
